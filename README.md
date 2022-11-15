@@ -1,6 +1,6 @@
 # Ethersjs practice
 
-My ethersjs practice repository.\
+My ethersjs practice repository.
 
 Files listed \
 readChainData.js,callReadFunction- To read data from on chain using ethers.js.\
